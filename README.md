@@ -4,6 +4,7 @@
 
 ## What's This Project? 
 This is a simple snack game 
+
 Works on mobile and desktop 
 
 ## Description 
